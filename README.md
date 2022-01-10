@@ -1,7 +1,8 @@
 # Docker container for Nginx Proxy Manager
 [![Docker Image Size](https://img.shields.io/docker/image-size/jlesage/nginx-proxy-manager/latest)](https://hub.docker.com/r/jlesage/nginx-proxy-manager/tags) [![Build Status](https://drone.le-sage.com/api/badges/jlesage/docker-nginx-proxy-manager/status.svg)](https://drone.le-sage.com/jlesage/docker-nginx-proxy-manager) [![GitHub Release](https://img.shields.io/github/release/jlesage/docker-nginx-proxy-manager.svg)](https://github.com/jlesage/docker-nginx-proxy-manager/releases/latest) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/JocelynLeSage/0usd)
 
-This is a Docker container for [Nginx Proxy Manager](https://nginxproxymanager.jc21.com).
+This is a Docker container for [Nginx Proxy Manager](https://nginxproxymanager.jc21.com). 
+Includes this [https://github.com/Mattie112/docker-nginx-proxy-manager/commit/04173ea5ce5d8f9d08fe37174421893d2334433c](https://github.com/Mattie112/docker-nginx-proxy-manager/commit/04173ea5ce5d8f9d08fe37174421893d2334433c) commit but has an up-to-date upstream (for now)
 
 ---
 
